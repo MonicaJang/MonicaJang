@@ -4,7 +4,7 @@
 
 Hi there! 👋
 
-📌  I am excited to be a candidate for a Master’s in Business Analytics while currently working full-time in the aviation industry.
+📌  I am currently pursuing a Master’s in Business Analytics.
 
 💻  I have a strong foundation in Python and SQL, which I use to analyze data and develop actionable insights.
 
