@@ -4,7 +4,7 @@
 
 Hi there! 👋
 
-📌  I am currently pursuing a Master’s in Business Analytics.
+📌  I am currently pursuing Master of Management in Analytics at McGill University.
 
 💻  I have a strong foundation in Python and SQL, which I use to analyze data and develop actionable insights.
 
