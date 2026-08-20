@@ -6,7 +6,7 @@ Hi there! 👋
 
 📌  I am currently pursuing Master of Management in Analytics at McGill University.
 
-💻  I have a strong foundation in Python and SQL, which I use to analyze data and develop actionable insights.
+💻  I translate data and analytics into actionable insights people can act on.
 
 📂  My GitHub page showcases projects I’ve participated in and research outcomes.
 
